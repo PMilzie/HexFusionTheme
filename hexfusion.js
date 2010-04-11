@@ -12,7 +12,7 @@
         incremental: 301,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusion-Theme/HexFusion_CyanogenMod_v3.0.1-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_CyanogenMod_v3.0.1-signed.zip",
         ]
     },
     {
@@ -23,6 +23,6 @@
         incremental: 301,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusion-Theme/HexFusion_CyanogenMod_NoIcons_v3.0.1-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_CyanogenMod_NoIcons_v3.0.1-signed.zip",
         ]
 }
