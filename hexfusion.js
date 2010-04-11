@@ -5,17 +5,6 @@
     roms:
     [
     {
-        name: "HexFusion_CyanogenMod_v3.0.1",
-        summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7",
-        device: "sholes",
-        product: "HexFusionThemeSholes",
-        incremental: 301,
-        urls:
-        [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_CyanogenMod_v3.0.1-signed.zip",
-        ]
-    },
-    {
         name: "HexFusion_CyanogenMod_NoIcons_v3.0.1",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7 without icons",
         device: "sholes",
