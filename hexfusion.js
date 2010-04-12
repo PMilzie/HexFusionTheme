@@ -5,14 +5,14 @@
     roms:
     [
     {
-        name: "HexFusion_NoIcons_v3.0.1",
+        name: "HexFusion_NoIcons_v3.0.2",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7 without icons",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
-        incremental: 301,
+        incremental: 302,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_CyanogenMod_NoIcons_v3.0.1-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_CyanogenMod_NoIcons_v3.0.2-signed.zip",
         ]
      }
      ]
