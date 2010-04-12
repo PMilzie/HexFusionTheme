@@ -5,7 +5,7 @@
     roms:
     [
     {
-        name: "HexFusion_CyanogenMod_NoIcons_v3.0.1",
+        name: "HexFusion_NoIcons_v3.0.1",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7 without icons",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
