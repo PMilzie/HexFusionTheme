@@ -14,7 +14,7 @@
         [
         "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_Complete_v3.0.3-signed.zip",
         ]
-     }
+     },
      {
         name: "HexFusion_NoIcons_v3.0.3",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7 without icons",
@@ -25,7 +25,7 @@
         [
         "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_NoIcons_v3.0.3-signed.zip",
         ]
-     }
+     },
      {
         name: "HexToStock_v3.0.3",
         summary: "Revert from either HexFusion theme back to stock theme",
@@ -36,7 +36,7 @@
         [
         "http://github.com/downloads/PMilzie/HexFusionTheme/HexToStock_v3.0.3-signed.zip",
         ]
-     }
+     },
      {
         name: "HexFusion_NoIcons_v3.0.2",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.5.7 without icons",
