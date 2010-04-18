@@ -5,36 +5,36 @@
     roms:
     [
     {
-        name: "HexFusion_Theme_v3.0.4",
+        name: "HexFusion_Theme_v3.0.5",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.6.1",
         device: "sholes",
         product: "HexFusionSholes",
-        incremental: 304,
+        incremental: 305,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_Complete_v3.0.4-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_Complete_v3.0.5-signed.zip",
         ]
      },
      {
-        name: "HexFusion_NoIcons_v3.0.4",
+        name: "HexFusion_NoIcons_v3.0.5",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.6.1 without icons",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
-        incremental: 304,
+        incremental: 305,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_NoIcons_v3.0.4-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_NoIcons_v3.0.5-signed.zip",
         ]
      },
      {
-        name: "HexToStock_v3.0.4",
+        name: "HexToStock_v3.0.5",
         summary: "Revert from either HexFusion theme back to stock theme",
         device: "sholes",
         product: "HexToStockSholes",
-        incremental: 304,
+        incremental: 305,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexToStock_v3.0.4-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexToStock_v3.0.5-signed.zip",
         ]
      }
      ]
