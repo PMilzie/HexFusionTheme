@@ -28,7 +28,7 @@
      },
      {
         name: "Fusion_HelixLauncher2",
-        summary: "Themed Helix Launcher2, UNINSTALL ORIGINAL HELIXLAUNCHER2 BEFORE INSTALLING!",
+        summary: "Themed Helix Launcher2, uninstall original helixlauncher2 before installing",
         device: "sholes",
         product: "FusionHelixLauncher2Sholes",
         incremental: 307,
