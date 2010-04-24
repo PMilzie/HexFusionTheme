@@ -5,36 +5,58 @@
     roms:
     [
     {
-        name: "HexFusion_Theme_v3.0.6",
+        name: "HexFusion_Theme_v3.0.7",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.6.2",
         device: "sholes",
         product: "HexFusionSholes",
-        incremental: 306,
+        incremental: 307,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_Complete_v3.0.6-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_Complete_v3.0.7-signed.zip",
         ]
      },
      {
-        name: "HexFusion_NoIcons_v3.0.6",
+        name: "HexFusion_NoIcons_v3.0.7",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.6.2 without icons",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
-        incremental: 306,
+        incremental: 307,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_NoIcons_v3.0.6-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_NoIcons_v3.0.7-signed.zip",
         ]
      },
      {
-        name: "HexToStock_v3.0.5",
+        name: "Fusion_HelixLauncher2",
+        summary: "Themed Helix Launcher2, UNINSTALL ORIGINAL HELIXLAUNCHER2 BEFORE INSTALLING!",
+        device: "sholes",
+        product: "FusionHelixLauncher2Sholes",
+        incremental: 307,
+        urls:
+        [
+        "http://github.com/downloads/PMilzie/HexFusionTheme/Hex_HelixLauncher2-signed.zip",
+        ]
+     },
+     {
+        name: "HexHome",
+        summary: "Themed original launcher",
+        device: "sholes",
+        product: "HexHomeSholes",
+        incremental: 307,
+        urls:
+        [
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexHome-signed.zip",
+        ]
+     },
+     {
+        name: "HexToStock_v3.0.7",
         summary: "Revert from either HexFusion theme back to stock theme",
         device: "sholes",
         product: "HexToStockSholes",
-        incremental: 305,
+        incremental: 307,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexToStock_v3.0.5-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexToStock_v3.0.7-signed.zip",
         ]
      }
      ]
