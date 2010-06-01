@@ -1,6 +1,6 @@
 {
     version: 4,
-    homepage: "http://forum.cyanogenmod.com/index.php?/topic/562-theme-hexfusion-cyanogenmod-updated-410/",
+    homepage: "http://forum.cyanogenmod.com/index.php?/topic/341-theme-hexfusion-cyanogenmod-updated-61/",
     donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paulmiller_19%40yahoo%2ecom&lc=US&item_name=PMilzie%27s%20Themes&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted",
     roms:
     [
