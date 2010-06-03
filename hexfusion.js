@@ -5,25 +5,25 @@
     roms:
     [
     {
-        name: "HexFusion_v4.0.0",
+        name: "HexFusion_v4.0.1",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.7.1",
         device: "sholes",
         product: "HexFusionSholes",
-        incremental: 400,
+        incremental: 401,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_v4.0.0-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexFusion_v4.0.1-signed.zip",
         ]
      },
      {
-        name: "HexLauncherPro_v4.0.0",
+        name: "HexLauncherPro_v4.0.1",
         summary: "LauncherPro with HexFusion Theme, UNINSTALL launcher pro from market before installing this!",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
-        incremental: 400,
+        incremental: 401,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexLauncherPro_v4.0.0-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexLauncherPro_v4.0.1-signed.zip",
         ]
      },
      {
