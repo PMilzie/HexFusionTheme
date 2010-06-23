@@ -16,14 +16,14 @@
         ]
      },
      {
-        name: "HexLauncherPro_v5.4",
+        name: "HexLauncherPro_v6.2",
         summary: "LauncherPro with HexFusion Theme, UNINSTALL launcher pro from market before installing this!",
         device: "sholes",
         product: "HexFusionNoIconsSholes",
-        incremental: 540,
+        incremental: 620,
         urls:
         [
-        "http://github.com/downloads/PMilzie/HexFusionTheme/HexLauncherPro_v5.4-signed.zip",
+        "http://github.com/downloads/PMilzie/HexFusionTheme/HexLauncherPro_v6.2-signed.zip",
         ]
      },
      {
