@@ -8,7 +8,7 @@
         name: "HexFusion_v4.0.1",
         summary: "HexFusion Theme for Droid CyanogenMod 5.0.7.1",
         device: "sholes",
-        screenshot: "http://github.com/downloads/PMilzie/HexFusionTheme/Home.jpg",
+        screenshot: "http://github.com/downloads/PMilzie/HexFusionTheme/Home1.jpg",
         product: "HexFusionSholes",
         incremental: 401,
         urls:
